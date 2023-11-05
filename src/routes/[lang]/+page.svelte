@@ -15,7 +15,7 @@
       Earendil is the first anonymous communication and transaction network
       designed to be <i
         >decentralized, incentive-compatible, and ban-resistant</i
-      >, and a foundational off-chain protocol in the
+      >. It is a foundational off-chain protocol in the
       <a href="https://melproject.org">Mel</a> ecosystem.
     </p>
     <p>
