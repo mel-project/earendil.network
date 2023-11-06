@@ -36,6 +36,10 @@
 <svelte:head>
   <title>Earendil</title>
   <meta name="description" content={tagline} />
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@publisher_handle">
+  <meta name="twitter:title" content="Earendil">
+  <meta name="twitter:description" content={tagline}>
 </svelte:head>
 
 <div class="container content hero" {lang}>
