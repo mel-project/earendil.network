@@ -18,7 +18,8 @@
   scrollbar-width: none;
 
   font-family: var(--bs-body-font-family);
-  --bs-body-font-family: "Inter var", "Inter", "Noto Sans SC", monospace;
+  --bs-body-font-family: "Inter var", "Inter", "Noto Sans SC", system-ui,
+    sans-serif;
   --primary-purple: #2aa198;
   --bs-link-color: var(--primary-purple);
   --bs-link-hover-color: var(--primary-purple);
