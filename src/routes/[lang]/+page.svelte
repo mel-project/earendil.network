@@ -26,8 +26,8 @@
       willing to <i>ban</i> rather than subvert or censor the protocol.
     </p>
     <p>
-      Earendil is currently a work-in-progress and not ready to use. A
-      fully-functional pre-alpha is likely in early 2024.
+      Earendil is currently a work-in-progress. A
+      minimally functional pre-alpha is <a href="https://docs.earendil.network/getting-started/quick-start">currently available</a>.
     </p>
     `;
   }
