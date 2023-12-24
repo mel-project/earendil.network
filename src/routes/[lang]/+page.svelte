@@ -27,7 +27,7 @@
     </p>
     <p>
       Earendil is currently a work-in-progress. A
-      minimally functional pre-alpha is <a href="https://docs.earendil.network/getting-started/quick-start">currently available</a>.
+      minimally functional pre-alpha is <a href="https://docs.earendil.network/getting-started/quick-start">available</a>.
     </p>
     `;
   }
@@ -36,10 +36,10 @@
 <svelte:head>
   <title>Earendil</title>
   <meta name="description" content={tagline} />
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:site" content="@publisher_handle">
-  <meta name="twitter:title" content="Earendil">
-  <meta name="twitter:description" content={tagline}>
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@publisher_handle" />
+  <meta name="twitter:title" content="Earendil" />
+  <meta name="twitter:description" content={tagline} />
 </svelte:head>
 
 <div class="container content hero" {lang}>
